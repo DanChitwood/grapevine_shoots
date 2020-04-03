@@ -20,8 +20,8 @@ This repository contains the data and code used to produce the figures and table
 
 **Figure 8: Intermediate leaf shapes of *Vitis riparia* x *V. labrusca* hybrids. A)** Population composition proportion for *Vitis riparia* x *V. labrusca* hybrids. Vine identification numbers are provided. **B)** Principal Component Analysis (PCA) based on averaged modeled shoot values across years for *V. riparia* (orange) and *V. labrusca* (blue) vines, hybrids (black points), and *V.* x*novae-angliae*. 95% confidence ellipses are provided. C) Superimposed average leaf shapes for *V. riparia* (orange), *V. labrusca* (blue), and hybrids (gray). Hybrids and *V.* x*novae-angliae* are compared to parents individually and together.
 
-**Table 1: Comparison of species prediction using LDA for individual leaves vs. modeled shoots.
+**Table 1: Comparison of species prediction using LDA for individual leaves vs. modeled shoots.**
 
-**Table 2: Relative shoot position prediction using LDA for individual leaves.
+**Table 2: Relative shoot position prediction using LDA for individual leaves.**
 
-**Table 3: Comparison of year prediction using LDA for individual leaves vs. modeled shoots.
+**Table 3: Comparison of year prediction using LDA for individual leaves vs. modeled shoots.**
