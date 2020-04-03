@@ -1,6 +1,6 @@
 # Modeled changes in leaf shape across grapevine shoots discriminate species better than individual leaves and identify *Vitis* hybrids
 
-This repository contains the data and code used to produce the figures and tables for the manuscript **Modeled changes in leaf shape across grapevine shoots discriminate species better than individual leaves and identify *Vitis* hybrids**.
+This repository contains the data and code used to produce the figures and tables for the manuscript *Modeled changes in leaf shape across grapevine shoots discriminate species better than individual leaves and identify* Vitis *hybrids*.
 
 ### Figure legends
 
