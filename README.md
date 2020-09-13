@@ -4,7 +4,7 @@ This repository contains the data and code used to produce the figures and table
 
 Please use the folders marked as REVISED for the most up-to-date code and data corresponding with the current manuscript version.
 
-The original scans of garpevine leaves used to produce this data can be found on Dryad: *Data from: Latent developmental and evolutionary shapes embedded within the grapevine leaf* using the following doi: [https://doi.org/10.5061/dryad.zkh189377](https://doi.org/10.5061/dryad.zkh189377)
+The original scans of grapevine leaves used to produce this data can be found on Dryad: *Data from: Latent developmental and evolutionary shapes embedded within the grapevine leaf* using the following doi: [https://doi.org/10.5061/dryad.zkh189377](https://doi.org/10.5061/dryad.zkh189377)
 
 ### Figure legends
 
